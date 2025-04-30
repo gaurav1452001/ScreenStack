@@ -18,7 +18,7 @@ const Navbar = (props: Props) => {
                 <Link href="/" className='text-xs font-semibold bg-violet-800 rounded-[19px] px-3 py-1.5 hover:bg-violet-500'>Price</Link>
                 <Link href="/" className='text-xs font-semibold bg-violet-800 rounded-[19px] px-3 py-1.5 hover:bg-violet-500'>About</Link>
             </div>
-            <Link href="/auth/sing-in">
+            <Link href="/auth/sign-in">
                 <Button className='text-base'>Login</Button>
             </Link>
         </div>
