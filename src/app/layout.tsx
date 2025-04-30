@@ -4,8 +4,8 @@ import "./globals.css";
 import { ThemeProvider } from "@/components/theme";
 
 export const metadata: Metadata = {
-  title: "Realtor",
-  description: "",
+  title: "Screenstack",
+  description: "Share Screen Recordings with ease",
 };
 
 export default function RootLayout({
